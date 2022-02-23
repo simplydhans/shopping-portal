@@ -31,7 +31,7 @@ pipeline{
     
     post{
         always{
-            echo 'I have created pipeline as code...'
+            echo 'Hey I know how to create pipeline as code :)'
         }
         
     }
